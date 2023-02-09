@@ -1,0 +1,380 @@
+@font-face {
+    font-family: 'poppins';
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+.back {
+    background-color: white;
+}
+head  {
+    background-color: white;
+}
+header * {
+    display: inline;
+    border-bottom: 1px solid black;
+    text-align: center;
+    padding: 30px 0 30px 0;
+    line-height: 27px;
+    letter-spacing: normal;
+    font-size: 18px;
+    background-color: white;
+}
+.navbar {
+    text-align: center;
+}
+.title {
+    margin-right: 270px;
+    margin-left: 126px;
+    font-size: 26px;
+    border-bottom: none;
+    
+}
+.icon img {
+    width: 35px;
+    height: auto;
+    margin-top: 36px ;
+    margin-left: 550px;
+    padding-bottom: 0px;
+    border-bottom: none;
+}
+
+
+.header li {
+display: inline;
+margin-right: 66px;
+}
+
+ul {
+    list-style-type: none ;
+    margin-inline: 645px;   
+    
+
+}
+.container {
+    background-color: white;
+    margin: auto;
+    width: 60%;
+}
+h1 {
+    font-size: 24px;
+    font-weight:bold;
+    color: black;
+    text-align: center;
+    margin-top: 159px;
+}
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+.products-section {
+    padding: 170px 120px 200px 120px;
+    text-align: center;
+}
+
+.product-wrapper  {
+    display: inline-block;
+}
+
+.product-content {
+    border: 1px solid black;
+    display: inline-block;
+    width: 333px;
+    padding: 15px 15px 25px 15px;
+}
+
+.product-content img {
+    width: 100%;
+}
+
+.product-content h3 {
+    margin: 15px 0;
+    line-height: 24px;
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.product-content p {
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: .5px;
+    font-family: 'Itim', cursive;
+}
+
+.product-content h3,
+.product-content p {
+    margin-left: 10px;
+}
+
+.product-footer button {
+    font-size: 12px;
+    line-height: 18px;
+    padding: 6px 26px;
+    background-color: inherit;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.product-footer {
+    color: white;
+}
+
+.product-footer {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.product-wrapper.middle {
+    margin: 0 100px;
+    
+}
+.lists {
+    text-align: center;
+}
+.list-section {
+    padding: 170px 120px 200px 120px;
+}
+
+.list-wrapper {
+    display: inline-block;
+}
+.list-content {
+    border: 1px solid black;
+    display: inline-block;
+    width: 333px;
+    padding: 15px 15px 25px 15px;
+    border-style: none;
+    font-size: 14px;
+    font-style: normal;
+}
+.list-wrapper.middle {
+    margin: 0 100px;
+}
+h3.about {
+        font-size: 40px;
+        font-weight:bold;
+        color:#7D0000;
+        text-align: center;
+        margin-top: 112px;
+    }
+p.about {
+    margin: 255px 105px 237px 116px;
+    display: inline-block;
+    font-size: 25px;
+    width: 500px;
+    vertical-align: top;
+}
+.about-img {
+    display: inline-block;
+    margin-left: 60%;
+    width: 500px;
+    margin-bottom:175px;
+    border-radius: 20px;
+    
+}
+    h4.about {
+        font-size: 25px;
+        letter-spacing: 0.03px;
+        font-weight: 400;
+        line-height: 29px;
+        font-style:italic;
+        display: inline;
+    }
+    
+    h3.contact {
+        font-size: 40px;
+        font-weight:bold;
+        color:#7D0000;
+        text-align: center;
+        margin-top: 112px;
+
+    }
+    .container2 {
+        display: inline-block;
+        vertical-align: Top;
+        background-color: white;
+        margin: 119px 280px 280px 760px;
+        
+
+    }
+    p.contact {
+        font-size: 25px;
+        font-weight:bold;
+        color: black;
+        margin-top: 32px;
+        text-align: left;
+    }
+    p.contact2 {
+        font-size: 25px;
+        font-weight:bold;
+        color: black;
+        margin-top: 32px;
+        margin-left: 866px;
+    }
+
+    .map {
+        text-align:center;
+        margin-top: 144px;
+    }
+
+    .more-products {
+        margin-left: 1178px;
+        margin-top: auto;
+        font-size: 16px;
+        text-align: left;
+    }
+
+.blog{
+width: 446px;
+height: 29px;
+left: 94px;
+top: 134px;
+font-family: 'FiraGO';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+border-bottom: none;
+}
+
+.blog-header{
+    display: inline;
+    
+    text-align: center;
+    padding: 30px 0 30px 0;
+    line-height: 27px;
+    letter-spacing: normal;
+    font-size: 18px;
+    background-color: white;
+    margin-right: 270px;
+    margin-left: 126px;
+    font-size: 26px;
+    border-bottom: none;
+}
+.blog-header{
+    text-align: center;
+}
+.profile  img{
+    margin-left: 80px;
+    margin-top: 150px;
+
+}
+
+.name {
+    margin-top: -89px;
+    margin-left: 320px;
+    font-size: 30px;
+
+}
+.job {
+    font-style:italic;
+    font-size: 22px;
+    color: #546ccc;
+    margin-top: 30px;
+    margin-left: 320px;
+}
+.info {
+    text-decoration: underline;
+    font-size: 24px;
+    margin-left: 450px;
+    margin-top: 100px;
+    margin-bottom: 52px;
+    
+    
+}
+.detailss li {
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: -190px;
+    margin-top: 30px;
+    margin-bottom: 52px;
+    
+}
+.details2 {
+    font-size: 20px;
+    margin-top: -150px;
+}
+.details2 li {
+  margin-top: 30px;
+}
+.profile-button button {
+font-size: 15px;
+padding: 10px 30px;
+border-radius: 10px;
+color: #ffffff;
+background-color: #87ac87;
+}
+.profile-button {
+    margin-left: 580px;
+}
+.blog-container {
+    max-width: 1252px;
+    margin: 0 auto;
+    width:90%
+}
+.blog-title {
+    margin-top: 47px;
+    height: 29px;
+    width: 446px;
+    font-size: 25px;
+    line-height: 29px;
+    font-weight: 400;
+}
+.blog-title :hover{
+    text-decoration: underline;
+}
+.blog-types {
+text-align: center;
+}
+.blog-container ul{
+    margin-top: 90px;
+
+}
+.blog-container li {
+display: inline;
+font-size: 18px;
+line-height: 22px;
+margin-right: 65px;
+font-weight: 500;
+}
+.blog-container li :hover {
+    text-decoration: underline;
+}
+.blog-story {
+    margin-top: 70px;
+}
+.blog-story h3{
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500;
+    padding: 38px 656px 0 36px;
+}
+.blog-story h3 :hover {
+    text-decoration: underline;
+
+}
+.blog-story p {
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 350;
+    padding: 32px 32x 12px 36px;
+}
+.blog-story p :hover{
+    text-decoration: underline;
+
+}
+.blog-button {
+    text-align: center;
+    margin-top: 14px;
+}
+.blog-button button {
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: 400;
+    padding: 11px 27x 15px 28px;
+    cursor: pointer;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+.blog-button button :hover{
+    text-decoration: underline;
+}
